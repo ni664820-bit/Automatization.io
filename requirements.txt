@@ -1,0 +1,7 @@
+aiogram>=3.13,<4
+python-dotenv>=1.0
+aiohttp>=3.9
+# Опционально (для синхронизации доступности из Google Sheets):
+# gspread>=6.0
+# Опционально (для продакшена на PostgreSQL вместо SQLite):
+# psycopg[binary]>=3.1
